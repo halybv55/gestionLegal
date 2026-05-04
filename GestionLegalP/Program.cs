@@ -8,14 +8,37 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 //Conexión a Railway
-var url = Environment.GetEnvironmentVariable("DATABASE_URL"); // 👈 Railway usa esto
+// Conexión Railway / Local
+var rawUrl = Environment.GetEnvironmentVariable("DATABASE_URL")
+             ?? builder.Configuration.GetConnectionString("DefaultConnection");
 
-Console.WriteLine($"Cadena de conexión: {url}");
+string ConvertDatabaseUrl(string databaseUrl)
+{
+    if (string.IsNullOrEmpty(databaseUrl))
+        throw new Exception("No se encontró la cadena de conexión.");
+
+    if (databaseUrl.StartsWith("postgres://") || databaseUrl.StartsWith("postgresql://"))
+    {
+        var uri = new Uri(databaseUrl);
+        var userInfo = uri.UserInfo.Split(':');
+
+        var username = Uri.UnescapeDataString(userInfo[0]);
+        var password = Uri.UnescapeDataString(userInfo[1]);
+        var database = uri.AbsolutePath.TrimStart('/');
+
+        return $"Host={uri.Host};Port={uri.Port};Database={database};Username={username};Password={password};SSL Mode=Require;Trust Server Certificate=true";
+    }
+
+    return databaseUrl;
+}
+
+var connectionString = ConvertDatabaseUrl(rawUrl);
+
+Console.WriteLine($"Cadena convertida: {connectionString}");
 
 builder.Services.AddDbContext<GestionLegalPContext>(options =>
-    options.UseNpgsql(url)
+    options.UseNpgsql(connectionString)
 );
-
 
 //Puerto para Railway
 builder.WebHost.UseUrls("http://0.0.0.0:8080");
