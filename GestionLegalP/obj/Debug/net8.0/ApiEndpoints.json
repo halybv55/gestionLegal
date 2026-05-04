@@ -1,0 +1,1276 @@
+[
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoDocumentoesController",
+    "Method": "Post",
+    "RelativePath": "api/CasoDocumentoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoCasoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoDocumentoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoRelacion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaAdjunta",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoDocumentoesController",
+    "Method": "Delete",
+    "RelativePath": "api/CasoDocumentoes/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoDocumentoesController",
+    "Method": "Get",
+    "RelativePath": "api/CasoDocumentoes/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoInvolucradoesController",
+    "Method": "PostCasoInvolucrado",
+    "RelativePath": "api/CasoInvolucradoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoCasoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RolInvolucrado",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescripcionParticipacion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoInvolucradoesController",
+    "Method": "GetCasoInvolucrado",
+    "RelativePath": "api/CasoInvolucradoes/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoInvolucradoesController",
+    "Method": "PutCasoInvolucrado",
+    "RelativePath": "api/CasoInvolucradoes/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoCasoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "RolInvolucrado",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "DescripcionParticipacion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoInvolucradoesController",
+    "Method": "DeleteCasoInvolucrado",
+    "RelativePath": "api/CasoInvolucradoes/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoInvolucradoesController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/CasoInvolucradoes/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoInvolucradoesController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/CasoInvolucradoes/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoLegalsController",
+    "Method": "PostCasoLegal",
+    "RelativePath": "api/CasoLegals",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoCaso",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaApertura",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "EstadoCaso",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prioridad",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoLegalsController",
+    "Method": "GetCasoLegal",
+    "RelativePath": "api/CasoLegals/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoLegalsController",
+    "Method": "PutCasoLegal",
+    "RelativePath": "api/CasoLegals/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoCaso",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaApertura",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "EstadoCaso",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Prioridad",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoLegalsController",
+    "Method": "DeleteCasoLegal",
+    "RelativePath": "api/CasoLegals/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoLegalsController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/CasoLegals/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.CasoLegalsController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/CasoLegals/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoDocumentoesController",
+    "Method": "PostConsentimientoDocumento",
+    "RelativePath": "api/ConsentimientoDocumentoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoConsentimiento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoDocumentoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaAsociacion",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoDocumentoesController",
+    "Method": "GetConsentimientoDocumento",
+    "RelativePath": "api/ConsentimientoDocumentoes/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoDocumentoesController",
+    "Method": "PutConsentimientoDocumento",
+    "RelativePath": "api/ConsentimientoDocumentoes/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoConsentimiento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoDocumentoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaAsociacion",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoDocumentoesController",
+    "Method": "DeleteConsentimientoDocumento",
+    "RelativePath": "api/ConsentimientoDocumentoes/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoDocumentoesController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/ConsentimientoDocumentoes/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoDocumentoesController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/ConsentimientoDocumentoes/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoesController",
+    "Method": "PostConsentimiento",
+    "RelativePath": "api/Consentimientoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoTratamiento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Fecha",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Firmado",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreFirmante",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ParentescoFirmante",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoesController",
+    "Method": "GetConsentimiento",
+    "RelativePath": "api/Consentimientoes/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoesController",
+    "Method": "PutConsentimiento",
+    "RelativePath": "api/Consentimientoes/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoTratamiento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Fecha",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Firmado",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreFirmante",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ParentescoFirmante",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoesController",
+    "Method": "DeleteConsentimiento",
+    "RelativePath": "api/Consentimientoes/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoesController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/Consentimientoes/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ConsentimientoesController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/Consentimientoes/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoDecisionsController",
+    "Method": "PostDocumentoDecision",
+    "RelativePath": "api/DocumentoDecisions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoDocumentoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoDecision",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaDecision",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observacion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoDecisionsController",
+    "Method": "GetDocumentoDecision",
+    "RelativePath": "api/DocumentoDecisions/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoDecisionsController",
+    "Method": "PutDocumentoDecision",
+    "RelativePath": "api/DocumentoDecisions/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoDocumentoLegal",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoDecision",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaDecision",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observacion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoDecisionsController",
+    "Method": "DeleteDocumentoDecision",
+    "RelativePath": "api/DocumentoDecisions/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoDecisionsController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/DocumentoDecisions/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoDecisionsController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/DocumentoDecisions/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoLegalsController",
+    "Method": "PostDocumentoLegal",
+    "RelativePath": "api/DocumentoLegals",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tipo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaEmision",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Formato",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ArchivoUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoLegalsController",
+    "Method": "GetDocumentoLegal",
+    "RelativePath": "api/DocumentoLegals/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoLegalsController",
+    "Method": "PutDocumentoLegal",
+    "RelativePath": "api/DocumentoLegals/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tipo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaEmision",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Formato",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ArchivoUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoLegalsController",
+    "Method": "DeleteDocumentoLegal",
+    "RelativePath": "api/DocumentoLegals/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoLegalsController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/DocumentoLegals/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.DocumentoLegalsController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/DocumentoLegals/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ReglasController",
+    "Method": "PostRegla",
+    "RelativePath": "api/Reglas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoRegla",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaCreacion",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ReglasController",
+    "Method": "GetRegla",
+    "RelativePath": "api/Reglas/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ReglasController",
+    "Method": "PutRegla",
+    "RelativePath": "api/Reglas/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Titulo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoRegla",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaCreacion",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ReglasController",
+    "Method": "DeleteRegla",
+    "RelativePath": "api/Reglas/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ReglasController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/Reglas/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.ReglasController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/Reglas/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudRevisionsController",
+    "Method": "PostSolicitudRevision",
+    "RelativePath": "api/SolicitudRevisions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoSolicitud",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaRevision",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resultado",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observaciones",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudRevisionsController",
+    "Method": "GetSolicitudRevision",
+    "RelativePath": "api/SolicitudRevisions/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudRevisionsController",
+    "Method": "PutSolicitudRevision",
+    "RelativePath": "api/SolicitudRevisions/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CodigoSolicitud",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaRevision",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resultado",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observaciones",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudRevisionsController",
+    "Method": "DeleteSolicitudRevision",
+    "RelativePath": "api/SolicitudRevisions/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudRevisionsController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/SolicitudRevisions/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudRevisionsController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/SolicitudRevisions/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudsController",
+    "Method": "PostSolicitud",
+    "RelativePath": "api/Solicituds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoSolicitud",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Motivo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaSolicitud",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudsController",
+    "Method": "GetSolicitud",
+    "RelativePath": "api/Solicituds/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudsController",
+    "Method": "PutSolicitud",
+    "RelativePath": "api/Solicituds/{codigo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoSolicitud",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Motivo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FechaSolicitud",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudsController",
+    "Method": "DeleteSolicitud",
+    "RelativePath": "api/Solicituds/{codigo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudsController",
+    "Method": "GetListaActiva",
+    "RelativePath": "api/Solicituds/listaActiva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.SolicitudsController",
+    "Method": "GetListaCompleta",
+    "RelativePath": "api/Solicituds/listaCompleta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionLegalP.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GestionLegalP.WeatherForecast, GestionLegalP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
