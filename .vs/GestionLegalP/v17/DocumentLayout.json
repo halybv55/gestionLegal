@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\services\\casolegalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\services\\casolegalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\solicitudrevisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\solicitudrevisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\consentimientodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\consentimientodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\documentodecisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\documentodecisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\casodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\casodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\casoinvolucradodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\casoinvolucradodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\consentimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\consentimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\solicituddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\solicituddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\regladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\regladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\documentolegaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\documentolegaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\casolegaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\casolegaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\mappers\\solicitudrevisionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\solicitudrevisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\solicitudrevisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\controllers\\consentimientodocumentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\controllers\\consentimientodocumentoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\interfaces\\iconsentimientodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\interfaces\\iconsentimientodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\consentimientodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\consentimientodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\controllers\\documentodecisionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,20 +147,12 @@
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\mappers\\documentodecisionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\documentodecisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\documentodecisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\services\\casodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\services\\casodocumentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\mappers\\casodocumentomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\mappers\\casodocumentomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\casodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\casodocumentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\services\\casoinvolucradoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,10 +175,6 @@
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\mappers\\casoinvolucradomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\casoinvolucradodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\casoinvolucradodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\infrastructure\\repositories\\documentolegalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\infrastructure\\repositories\\documentolegalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -165,10 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\mappers\\documentolegalmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\mappers\\documentolegalmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\documentolegaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\application\\dtos\\documentolegaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,24 +198,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Dockerfile",
-              "RelativeDocumentMoniker": "GestionLegalP\\Dockerfile",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Dockerfile",
-              "RelativeToolTip": "GestionLegalP\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-04T23:25:28.381Z",
+              "DocumentIndex": 0,
+              "Title": "CasoLegalService.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Services\\CasoLegalService.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\Services\\CasoLegalService.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Services\\CasoLegalService.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\Services\\CasoLegalService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T01:14:53.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "ConsentimientoDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ConsentimientoDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\ConsentimientoDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ConsentimientoDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\ConsentimientoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T01:06:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CasoDocumentoDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:35:32.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CasoInvolucradoDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:30:53.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentoDecisionDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:45:04.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsentimientoDocumentoDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:55:15.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SolicitudRevisionDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:05:36.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolicitudDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\SolicitudDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\SolicitudDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\SolicitudDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\SolicitudDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T01:06:19.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReglaDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ReglaDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\ReglaDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ReglaDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\ReglaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T01:06:06.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CasoLegalDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoLegalDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\CasoLegalDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoLegalDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\CasoLegalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T01:05:15.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Program.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Program.cs",
@@ -208,31 +345,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CasoDocumentoRepository.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
-              "RelativeToolTip": "GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:37:01.947Z"
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionLegalP\\appsettings.json",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\appsettings.json",
+              "RelativeToolTip": "GestionLegalP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T05:53:33.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConsentimientoDocumentoRepository.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
-              "RelativeToolTip": "GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DocumentoLegalDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:56:40.811Z"
+              "WhenOpened": "2026-05-04T02:48:01.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "SolicitudRevisionRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\SolicitudRevisionRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\SolicitudRevisionRepository.cs",
@@ -244,20 +382,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\appsettings.json",
-              "RelativeDocumentMoniker": "GestionLegalP\\appsettings.json",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\appsettings.json",
-              "RelativeToolTip": "GestionLegalP\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-04T05:53:33.674Z",
-              "EditorCaption": ""
+              "DocumentIndex": 15,
+              "Title": "ConsentimientoDocumentoRepository.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
+              "RelativeToolTip": "GestionLegalP\\Infrastructure\\Repositories\\ConsentimientoDocumentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:56:40.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
+              "Title": "CasoDocumentoRepository.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
+              "RelativeToolTip": "GestionLegalP\\Infrastructure\\Repositories\\CasoDocumentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:37:01.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Dockerfile",
+              "RelativeDocumentMoniker": "GestionLegalP\\Dockerfile",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Dockerfile",
+              "RelativeToolTip": "GestionLegalP\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-04T23:25:28.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ICasoDocumentoRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\ICasoDocumentoRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\ICasoDocumentoRepository.cs",
@@ -269,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "ICasoDocumentoService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\ICasoDocumentoService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\ICasoDocumentoService.cs",
@@ -281,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "ConsultasMISController.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Controllers\\ConsultasMISController.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Controllers\\ConsultasMISController.cs",
@@ -293,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "ISolicitudRevisionService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\ISolicitudRevisionService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\ISolicitudRevisionService.cs",
@@ -305,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "SolicitudRevisionService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Services\\SolicitudRevisionService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Services\\SolicitudRevisionService.cs",
@@ -317,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "SolicitudRevisionsController.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Controllers\\SolicitudRevisionsController.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Controllers\\SolicitudRevisionsController.cs",
@@ -329,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "ISolicitudRevisionRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\ISolicitudRevisionRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\ISolicitudRevisionRepository.cs",
@@ -341,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "SolicitudRevisionMapper.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Mappers\\SolicitudRevisionMapper.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Mappers\\SolicitudRevisionMapper.cs",
@@ -353,19 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SolicitudRevisionDto.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
-              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\SolicitudRevisionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T05:05:36.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "ConsentimientoDocumentoesController.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Controllers\\ConsentimientoDocumentoesController.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Controllers\\ConsentimientoDocumentoesController.cs",
@@ -377,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "ConsentimientoDocumentoService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Services\\ConsentimientoDocumentoService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Services\\ConsentimientoDocumentoService.cs",
@@ -389,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "IConsentimientoDocumentoService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\IConsentimientoDocumentoService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\IConsentimientoDocumentoService.cs",
@@ -401,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "IConsentimientoDocumentoRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\IConsentimientoDocumentoRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\IConsentimientoDocumentoRepository.cs",
@@ -413,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "ConsentimientoDocumentoMapper.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Mappers\\ConsentimientoDocumentoMapper.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Mappers\\ConsentimientoDocumentoMapper.cs",
@@ -425,19 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ConsentimientoDocumentoDto.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
-              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\ConsentimientoDocumentoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:55:15.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "DocumentoDecisionsController.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Controllers\\DocumentoDecisionsController.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Controllers\\DocumentoDecisionsController.cs",
@@ -449,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "DocumentoDecisionService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Services\\DocumentoDecisionService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Services\\DocumentoDecisionService.cs",
@@ -461,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "IDocumentoDecisionService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\IDocumentoDecisionService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\IDocumentoDecisionService.cs",
@@ -473,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "DocumentoDecisionRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\DocumentoDecisionRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\DocumentoDecisionRepository.cs",
@@ -485,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "IDocumentoDecisionRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\IDocumentoDecisionRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\IDocumentoDecisionRepository.cs",
@@ -497,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "DocumentoDecisionMapper.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Mappers\\DocumentoDecisionMapper.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Mappers\\DocumentoDecisionMapper.cs",
@@ -509,19 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DocumentoDecisionDto.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
-              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\DocumentoDecisionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:45:04.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "CasoDocumentoService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Services\\CasoDocumentoService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Services\\CasoDocumentoService.cs",
@@ -533,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "CasoDocumentoMapper.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Mappers\\CasoDocumentoMapper.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Mappers\\CasoDocumentoMapper.cs",
@@ -545,19 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CasoDocumentoDto.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
-              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\CasoDocumentoDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:35:32.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "CasoInvolucradoService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Services\\CasoInvolucradoService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Services\\CasoInvolucradoService.cs",
@@ -569,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "ICasoInvolucradoService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\ICasoInvolucradoService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\ICasoInvolucradoService.cs",
@@ -581,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "CasoInvolucradoRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\CasoInvolucradoRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\CasoInvolucradoRepository.cs",
@@ -593,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "ICasoInvolucradoRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\ICasoInvolucradoRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\ICasoInvolucradoRepository.cs",
@@ -605,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "CasoInvolucradoMapper.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Mappers\\CasoInvolucradoMapper.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Mappers\\CasoInvolucradoMapper.cs",
@@ -617,19 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "CasoInvolucradoDto.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
-              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\CasoInvolucradoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T04:30:53.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "IDocumentoLegalService.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\IDocumentoLegalService.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\IDocumentoLegalService.cs",
@@ -641,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "DocumentoLegalRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Infrastructure\\Repositories\\DocumentoLegalRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Infrastructure\\Repositories\\DocumentoLegalRepository.cs",
@@ -653,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "IDocumentoLegalRepository.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Interfaces\\IDocumentoLegalRepository.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Interfaces\\IDocumentoLegalRepository.cs",
@@ -665,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "DocumentoLegalMapper.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\Mappers\\DocumentoLegalMapper.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Application\\Mappers\\DocumentoLegalMapper.cs",
@@ -674,18 +775,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T03:08:55.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DocumentoLegalDto.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
-              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\DocumentoLegalDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T02:48:01.368Z"
             }
           ]
         }

@@ -30,8 +30,7 @@ namespace GestionLegalP.Application.Services
                 c.Descripcion,
                 c.FechaApertura,
                 c.EstadoCaso,
-                c.Prioridad,
-                c.Estado
+                c.Prioridad
             }).Cast<object>().ToList();
         }
 
