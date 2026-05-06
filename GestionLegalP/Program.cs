@@ -102,6 +102,7 @@ using (var scope = app.Services.CreateScope())
     dbContext.Database.Migrate();
 }
 
+builder.Services.AddHttpClient();
 
 //Middleware
 app.UseSwagger();
