@@ -6,8 +6,6 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-//Conexión a Railway
 // Conexión Railway / Local
 var rawUrl = Environment.GetEnvironmentVariable("DATABASE_URL")
              ?? builder.Configuration.GetConnectionString("DefaultConnection");
@@ -40,17 +38,15 @@ builder.Services.AddDbContext<GestionLegalPContext>(options =>
     options.UseNpgsql(connectionString)
 );
 
-//Puerto para Railway
+// Puerto para Railway
 builder.WebHost.UseUrls("http://0.0.0.0:8080");
 
-
-//Controllers y Swagger
+// Controllers y Swagger
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
-//CORS (para frontend o pruebas)
+// CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll",
@@ -59,9 +55,10 @@ builder.Services.AddCors(options =>
                         .AllowAnyMethod());
 });
 
-var app = builder.Build();
+// HttpClient
+builder.Services.AddHttpClient();
 
-//Registrar repositorios y servicios (MUY IMPORTANTE)
+// Registrar repositorios y servicios
 builder.Services.AddScoped<ICasoLegalRepository, CasoLegalRepository>();
 builder.Services.AddScoped<ICasoLegalService, CasoLegalService>();
 
@@ -92,21 +89,17 @@ builder.Services.AddScoped<IConsentimientoDocumentoService, ConsentimientoDocume
 builder.Services.AddScoped<ISolicitudRevisionRepository, SolicitudRevisionRepository>();
 builder.Services.AddScoped<ISolicitudRevisionService, SolicitudRevisionService>();
 
-builder.Services.AddHttpClient();
+// RECIÉN AQUÍ se construye la app
+var app = builder.Build();
 
-
-
-
-//Migraciones automáticas
+// Migraciones automáticas
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<GestionLegalPContext>();
     dbContext.Database.Migrate();
 }
 
-
-
-//Middleware
+// Middleware
 app.UseSwagger();
 app.UseSwaggerUI();
 
