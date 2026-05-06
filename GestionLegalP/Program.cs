@@ -59,6 +59,7 @@ builder.Services.AddCors(options =>
                         .AllowAnyMethod());
 });
 
+var app = builder.Build();
 
 //Registrar repositorios y servicios (MUY IMPORTANTE)
 builder.Services.AddScoped<ICasoLegalRepository, CasoLegalRepository>();
@@ -91,8 +92,9 @@ builder.Services.AddScoped<IConsentimientoDocumentoService, ConsentimientoDocume
 builder.Services.AddScoped<ISolicitudRevisionRepository, SolicitudRevisionRepository>();
 builder.Services.AddScoped<ISolicitudRevisionService, SolicitudRevisionService>();
 
+builder.Services.AddHttpClient();
 
-var app = builder.Build();
+
 
 
 //Migraciones automáticas
@@ -102,7 +104,7 @@ using (var scope = app.Services.CreateScope())
     dbContext.Database.Migrate();
 }
 
-builder.Services.AddHttpClient();
+
 
 //Middleware
 app.UseSwagger();

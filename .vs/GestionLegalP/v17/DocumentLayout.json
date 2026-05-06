@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\controllers\\integracionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\controllers\\integracionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\controllers\\integracionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|solutionrelative:gestionlegalp\\controllers\\integracionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B144963-D861-4CDC-A825-7688C33F3F8B}|GestionLegalP\\GestionLegalP.csproj|d:\\sistemas de informacion ii\\proyecto\\gestionlegalp\\gestionlegalp\\application\\dtos\\externos\\despidorrhhdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -206,32 +206,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IntegracionesController.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Controllers\\IntegracionesController.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Controllers\\IntegracionesController.cs",
               "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Controllers\\IntegracionesController.cs",
               "RelativeToolTip": "GestionLegalP\\Controllers\\IntegracionesController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T05:26:43.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DespidoRRHHDto.cs",
-              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
-              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
-              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
-              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T05:25:38.263Z",
               "EditorCaption": ""
             },
             {
@@ -244,8 +231,7 @@
               "RelativeToolTip": "GestionLegalP\\Application\\Services\\CasoLegalService.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAuwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T01:14:53.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T01:14:53.425Z"
             },
             {
               "$type": "Document",
@@ -285,16 +271,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Program.cs",
               "RelativeDocumentMoniker": "GestionLegalP\\Program.cs",
               "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Program.cs",
               "RelativeToolTip": "GestionLegalP\\Program.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T01:55:18.056Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DespidoRRHHDto.cs",
+              "DocumentMoniker": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
+              "RelativeDocumentMoniker": "GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
+              "ToolTip": "D:\\Sistemas de Informacion II\\Proyecto\\GestionLegalP\\GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
+              "RelativeToolTip": "GestionLegalP\\Application\\DTOs\\Externos\\DespidoRRHHDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T05:25:38.263Z"
             },
             {
               "$type": "Document",
